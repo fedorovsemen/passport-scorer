@@ -51,7 +51,7 @@ GITCOIN_PASSPORT_WEIGHTS = {
     "BeginnerCommunityStaker": "1.290878",
     "ExperiencedCommunityStaker": "1.290878",
     "TrustedCitizen": "1.290878",
-    "SnapshotProposalsProvider": "2.840878",
+    "SnapshotProposalsProvider": "2.840878",вп
     "SnapshotVotesProvider": "1.430878",
     "twitterAccountAgeGte#180": "1.020878",
     "twitterAccountAgeGte#365": "1.230878",
